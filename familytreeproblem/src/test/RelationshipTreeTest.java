@@ -1,5 +1,8 @@
-package familytree;
+package test;
 
+import familytree.Person;
+import familytree.RelationshipTree;
+import familytree.Sex;
 import org.junit.Assert;
 import org.junit.Test;
 
