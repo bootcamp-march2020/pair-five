@@ -4,8 +4,8 @@ import java.util.Objects;
 
 public class Length {
 
-   private double value;
-   private String unit;
+   private final double value;
+   private final String unit;
 
     public Length(double value, String unit) {
         this.value = value;
